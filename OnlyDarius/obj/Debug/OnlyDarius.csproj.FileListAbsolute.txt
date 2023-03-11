@@ -1,0 +1,15 @@
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\OnlyDarius.exe.config
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\OnlyDarius.exe
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\OnlyDarius.pdb
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\PoniLCU.dll
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\System.CodeDom.dll
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\websocket-sharp-core.dll
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\bin\Debug\System.CodeDom.xml
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\obj\Debug\OnlyDarius.csproj.AssemblyReference.cache
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\obj\Debug\OnlyDarius.csproj.SuggestedBindingRedirects.cache
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\obj\Debug\OnlyDarius.csproj.CoreCompileInputs.cache
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\obj\Debug\OnlyDarius.csproj.CopyComplete
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\obj\Debug\OnlyDarius.exe
+C:\Users\gean-\source\repos\OnlyDarius\OnlyDarius\obj\Debug\OnlyDarius.pdb
