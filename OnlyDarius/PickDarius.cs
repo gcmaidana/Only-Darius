@@ -22,8 +22,21 @@ namespace OnlyDarius
 			var spell1Id = 4; // flash
 			var spell2Id = 6; // ghost
 
-			// var data = await leagueClient.Request(requestMethod.GET, "/lol-champ-select/v1/session");
+
+
+			// This auto picks Darius, but now I need to make sure that all conditions are taken into account,
+			// otherwise we will run into errors. For ex: this works if you are selecting champ, but if it's not 
+			// your turn to pick, it will throw an error, and likewise, it will throw an error if you are not in the champ select.
+			var body = "{\"championId\": 122, \"completed\": true }";
+			var data = await leagueClient.Request(requestMethod.PATCH, "/lol-champ-select/v1/session/actions/1", body);
+			Console.WriteLine(data);
 			
+			
+			
+			
+
+
+
 		}
 	}
 }

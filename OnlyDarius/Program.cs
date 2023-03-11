@@ -37,7 +37,7 @@ namespace OnlyDarius
 			// TO-DO: Implement this
 			 darius.pickDarius(leagueClient);
 
-
+			
 
 			// We have this Console.Read() here to read the next input, but it's just here so the console doesnt close after running all our methods succesfully
 			Console.Read(); 
