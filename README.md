@@ -1,6 +1,6 @@
 # Only-Darius
 
-*This program is a work in progress.*
+*This program is a work in progress. It is built in C# and utilizes the League Client API through the [PoniLCU library.](https://github.com/Ponita0/PoniLCU)*
 
 This program will pick only the champion Darius when playing League of Legends. In addition to picking Darius, this program selects optimal runes for Darius. It currently does not do any selection for spells, but I would like to add the selection of Ghost and Flash in the future. 
 
