@@ -3,11 +3,14 @@
 This program will pick only the champion Darius when playing League of Legends. This is a work in progress. 
 The program selects the champion properly and it runs, but only if you run the program in the game lobby. I will continue to add functionality
 so that the selection occurs without fail no matter when you start running the program, e.g.: whether in the game lobby or at the start screen, etc.
-Currently, I think I am going to add a FlowHandler class because I think there's an API request that tells you whether you're currently in the lobby, in a game, etc.
+
+Currently, I think I am going to add a FlowHandler class because I think there's a League Client API request that tells you whether you're currently in the lobby, or in a game, etc.
 I need to mess around with the API more to figure out a solution.
 The code is commented to some degree, but I will add more comments and make everything more readable after I finish and refactor everything.
 
 The motivation behind this project is that Darius is my favorite champion and I want others to experience how great Darius is.
+
+Please note that this project uses the League Client API, which is different that the official Riot Games API. The League Client API is not officially supported for use with third party applications. As such, there is no guarantee of full documentation or service uptime for the API, so I cannot guarantee that this project will work in the future.
 
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg">
 
