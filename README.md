@@ -10,7 +10,7 @@ The code is commented to some degree, but I will add more comments and make ever
 
 The motivation behind this project is that Darius is my favorite champion and I want others to experience how great Darius is.
 
-Please note that this project uses the League Client API, which is different that the official Riot Games API. The League Client API is not officially supported for use with third party applications. As such, there is no guarantee of full documentation or service uptime for the API, so I cannot guarantee that this project will work in the future.
+*Please note that this project uses the League Client API, which is different that the official Riot Games API. The League Client API is not officially supported for use with third party applications. As such, there is no guarantee of full documentation or service uptime for the API, so I cannot guarantee that this project will work in the future.*
 
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg">
 
