@@ -7,5 +7,6 @@ Currently, I think I am going to add a FlowHandler class because I think there's
 I need to mess around with the API more to figure out a solution.
 The code is commented to some degree, but I will add more comments and make everything more readable after I finish and refactor everything.
 
+The motivation behind this project is that Darius is my favorite champion and I want others to experience how great Darius is.
 ---
 **OnlyDarius isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.**
