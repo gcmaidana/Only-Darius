@@ -11,4 +11,4 @@ The motivation behind this project is that Darius is my favorite champion and I 
 ---
 **OnlyDarius isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.**
 
-![Screenshot](DariusOriginalSkin.jpg)
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg" width="100" height="100">
