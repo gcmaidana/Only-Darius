@@ -2,7 +2,7 @@
 
 *This program is a work in progress.*
 
-This program will pick only the champion Darius when playing League of Legends. In addition the picking Darius, this program selects optimal runes for Darius. It currently does not do any selection for spells, but I would like to add the selection of Ghost and Flash in the future. 
+This program will pick only the champion Darius when playing League of Legends. In addition to picking Darius, this program selects optimal runes for Darius. It currently does not do any selection for spells, but I would like to add the selection of Ghost and Flash in the future. 
 
 The program selects the champion properly and it runs, but only if you run the program in the game lobby. I will continue to add functionality
 so that the selection occurs without fail no matter when you start running the program, e.g.: whether in the game lobby or at the start screen, etc.
